@@ -10,6 +10,7 @@ export default function Home() {
           className="rounded-full"
           width={200}
           height={200}
+          priority
           alt="avatar"
         />
       </div>
